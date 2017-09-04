@@ -1,0 +1,23 @@
+{
+  "name": "gnome-terminal-environment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "shelljs": "^0.7.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimonchik-com/gnome-terminal-environment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dimonchik-com/gnome-terminal-environment/issues"
+  },
+  "homepage": "https://github.com/dimonchik-com/gnome-terminal-environment#readme"
+}
